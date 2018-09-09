@@ -2,6 +2,7 @@ Class demo
 {
 PSVM()
 {
+object
 }
 
 }
