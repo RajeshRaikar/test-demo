@@ -1,0 +1,8 @@
+Class demo
+{
+PSVM()
+{
+object
+}
+
+}
